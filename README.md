@@ -14,5 +14,4 @@
 
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=budsx&show_icons=true&locale=en&layout=compact" alt="budsx" /></p>
-&nbsp;
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=budsx&show_icons=true&locale=en" alt="budsx" /></p>
+
