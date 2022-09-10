@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Budi Setiawan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=budsx&label=Profile%20views&color=0e75b6&style=flat" alt="budsx" /> </p>
-
+<p align="center">A person who applies the principles of software engineering to design, develop, maintain, test, and evaluate computer softwar</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/budsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="budsx" height="30" width="40" /></a>
