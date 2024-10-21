@@ -29,17 +29,10 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🌱 Currently Learning
-
-- [New technology or framework you're exploring]
-- Enhancing skills in **distributed systems** and **microservices architecture**.
-
----
-
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/budsx)
-- **Email**: [your.email@example.com](mailto:budiskom99@gmail.com)
+- **LinkedIn**: [Budi Setiawan](https://linkedin.com/in/budsx)
+- **Email**: [budiskom99@gmail.com](mailto:budiskom99@gmail.com)
 
 ---
 
