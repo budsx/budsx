@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Budi
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=budsx&color=blueviolet)
 
 Welcome to my GitHub profile!
 
@@ -22,8 +22,6 @@ Welcome to my GitHub profile!
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=budsx&show_icons=true&hide=issues&hide_border=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=budsx&layout=compact&theme=radical)
 
