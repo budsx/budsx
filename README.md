@@ -1,10 +1,4 @@
-# Hi there! 👋 I'm Budi
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=budsx&layout=compact&theme=radical)
-
----
+# Hi there! 👋 I'm Budi 
 
 ## 📫 How to Reach Me
 
